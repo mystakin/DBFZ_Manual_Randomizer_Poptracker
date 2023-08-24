@@ -1,0 +1,95 @@
+{
+	// design for tracker main window
+    "tracker_default": {
+        "type": "container",
+        "background": "#B18661",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tracker_items"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Main Story",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Main Story"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Online Battles",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Online Battles"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Arcade Battles",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Arcade Battles"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+	
+	// design for broadcast window
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    },
+	
+	// design for marking location restriction preferences
+	"settings_popup":
+	{
+		"type": "array",
+		"margin": "0,0,0,0",
+		"content": 
+		[
+			{
+				"type": "group",
+				"header": "Location Restrictions",
+			},
+			{
+				"type": "itemgrid",
+				"orientation": "vertical",
+				"item_size": "324,174",
+				"margin": "0,32,0,0",
+				"rows": 
+				[
+					["no_dlc"],
+					["no_story"]
+				]
+			}
+		]
+	}
+}

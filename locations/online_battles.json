@@ -1,0 +1,1077 @@
+[
+	{
+		"name": "Master Roshi",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "master_roshi" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 90,
+				"y": 20
+			}
+		]
+	},
+	{
+		"name": "Gogeta (SSGSS)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "gogeta_ssgss" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 205,
+				"y": 23
+			}
+		]
+	},
+	{
+		"name": "Goku (Base)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_base" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 320,
+				"y": 25
+			}
+		]
+	},
+	{
+		"name": "Tien",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "tien" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 435,
+				"y": 26
+			}
+		]
+	},
+	{
+		"name": "Yamcha",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "yamcha" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 550,
+				"y": 28
+			}
+		]
+	},
+	{
+		"name": "Krillin",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "krillin" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 665,
+				"y": 31
+			}
+		]
+	},
+	{
+		"name": "Goku (Super Saiyan)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_super_saiyan" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 780,
+				"y": 32
+			}
+		]
+	},
+	{
+		"name": "Android 21 (Lab Coat)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "android_21_lab_coat" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 960,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Frieza",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "frieza" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1140,
+				"y": 32
+			}
+		]
+	},
+	{
+		"name": "Kid Buu",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "kid_buu" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1255,
+				"y": 31
+			}
+		]
+	},
+	{
+		"name": "Captain Ginyu",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "captain_ginyu" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1370,
+				"y": 28
+			}
+		]
+	},
+	{
+		"name": "Nappa",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "nappa" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1485,
+				"y": 26
+			}
+		]
+	},
+	{
+		"name": "Vegeta (Base)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "vegeta_base" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1600,
+				"y": 25
+			}
+		]
+	},
+	{
+		"name": "Broly (DBS)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "broly_dbs" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1715,
+				"y": 23
+			}
+		]
+	},
+	{
+		"name": "Super Baby 2",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "super_baby_2" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1830,
+				"y": 20
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Goku (GT)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_gt" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 155,
+				"y": 115
+			}
+		]
+	},
+	{
+		"name": "Android 17",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "android_17" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 270,
+				"y": 117
+			}
+		]
+	},
+	{
+		"name": "Bardock",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "bardock" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 385,
+				"y": 119
+			}
+		]
+	},
+	{
+		"name": "Goku (SSGSS)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_ssgss" ],
+		
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 500,
+				"y": 121
+			}
+		]
+	},
+	{
+		"name": "Gohan (Adult)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "gohan_adult" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 615,
+				"y": 123
+			}
+		]
+	},
+	{
+		"name": "Trunks",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "trunks" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 730,
+				"y": 125
+			}
+		]
+	},
+	{
+		"name": "Vegeta (Super Saiyan)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "vegeta_super_saiyan" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 845,
+				"y": 127
+			}
+		]
+	},
+	{
+		"name": "Cell",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "cell" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1075,
+				"y": 127
+			}
+		]
+	},
+	{
+		"name": "Android 18",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "android_18" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1190,
+				"y": 125
+			}
+		]
+	},
+	{
+		"name": "Android 16",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "android_16" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1305,
+				"y": 123
+			}
+		]
+	},
+	{
+		"name": "Android 21",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "android_21" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1420,
+				"y": 121
+			}
+		]
+	},
+	{
+		"name": "Broly (OG)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "broly_og" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1535,
+				"y": 119
+			}
+		]
+	},
+	{
+		"name": "Cooler",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "cooler" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1650,
+				"y": 117
+			}
+		]
+	},
+	{
+		"name": "Janemba",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "janemba" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1765,
+				"y": 115
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Goku (Ultra Instinct)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_ultra_instinct" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 105,
+				"y": 207
+			}
+		]
+	},
+	{
+		"name": "Videl",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "videl" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 230,
+				"y": 209
+			}
+		]
+	},
+	{
+		"name": "Vegito (SSGSS)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "vegito_ssgss" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 335,
+				"y": 210
+			}
+		]
+	},
+	{
+		"name": "Vegeta (SSGSS)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "vegeta_ssgss" ],
+		
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 450,
+				"y": 212
+			}
+		]
+	},
+	{
+		"name": "Gotenks",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "gotenks" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 565,
+				"y": 214
+			}
+		]
+	},
+	{
+		"name": "Piccolo",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "piccolo" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 680,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Gohan (Teen)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "gohan_teen" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 795,
+				"y": 218
+			}
+		]
+	},
+	{
+		"name": "Gogeta (SS4)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "gogeta_ss4" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 960,
+				"y": 222
+			}
+		]
+	},
+	{
+		"name": "Majin Buu",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "majin_buu" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1125,
+				"y": 218
+			}
+		]
+	},
+	{
+		"name": "Beerus",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "beerus" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1240,
+				"y": 217
+			}
+		]
+	},
+	{
+		"name": "Hit",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "hit" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1355,
+				"y": 215
+			}
+		]
+	},
+	{
+		"name": "Goku Black",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "goku_black" ],
+
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1470,
+				"y": 212
+			}
+		]
+	},
+	{
+		"name": "Zamasu (Fused)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "zamasu_fused" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1585,
+				"y": 210
+			}
+		]
+	},
+	{
+		"name": "Jiren",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "jiren" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1700,
+				"y": 209
+			}
+		]
+	},
+	{
+		"name": "Kefla",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "kefla" ],
+		"visibility_rules": ["$yamlCheckDLC"],
+		"sections": [
+			{
+				"name": "Play 1 Online Match",
+				"item_count": 1
+			},
+			{
+				"name": "Play 1 Best-of-Three Set",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Online Battles",
+				"x": 1815,
+				"y": 207
+			}
+		]
+	}
+]

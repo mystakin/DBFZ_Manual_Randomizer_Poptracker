@@ -1,0 +1,15 @@
+﻿{
+    "name": "Dragon Ball FighterZ - Manual",
+    "game_name": "Dragon Ball FighterZ",
+    "package_version": "1.0.0.0",
+    "package_uid": "dragonball_fighterz_manual_randomizer_mystakin",
+    "author": "mystakin",
+    "variants": {
+        "itemrando": {
+            "display_name": "Archipelago Manual Randomizer",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

@@ -1,0 +1,319 @@
+[
+	{
+		"name": "Snake Way Course",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "snake_way" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 43
+			}
+		]
+	},
+	{
+		"name": "Extreme Gravity Spaceship Course",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "extreme_gravity_spaceship" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 103
+			}
+		]
+	},
+	{
+		"name": "Hyperbolic Time Chamber Course",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "hyperbolic_time_chamber" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 6",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 7",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 163
+			}
+		]
+	},
+	
+	{
+		"name": "Snake Way Course (Hard)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "snake_way_hard" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 223
+			}
+		]
+	},
+	{
+		"name": "Extreme Gravity Spaceship Course (Hard)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "extreme_gravity_spaceship_hard" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 283
+			}
+		]
+	},
+	{
+		"name": "Hyperbolic Time Chamber Course (Hard)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "hyperbolic_time_chamber_hard" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 6",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 7",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 343
+			}
+		]
+	},
+	
+	{
+		"name": "Snake Way Course (Random)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "snake_way_random" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 403
+			}
+		]
+	},
+	{
+		"name": "Extreme Gravity Spaceship Course (Random)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "extreme_gravity_spaceship_random" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 463
+			}
+		]
+	},
+	{
+		"name": "Hyperbolic Time Chamber Course (Random)",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"access_rules": [ "hyperbolic_time_chamber_random" ],
+		"sections": [
+			{
+				"name": "Stage 1",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 2",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 3",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 4",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 5",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 6",
+				"item_count": 1
+			},
+			{
+				"name": "Stage 7",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Arcade Battles",
+				"x": 110,
+				"y": 523
+			}
+		]
+	}
+]

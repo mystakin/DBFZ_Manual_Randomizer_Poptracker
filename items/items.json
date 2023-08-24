@@ -1,0 +1,341 @@
+[
+	// character items
+    {
+        "name": "Master Roshi",
+        "type": "toggle",
+        "img": "images/items/Master_Roshi.png",
+        "codes": "master_roshi"
+    },
+	{
+        "name": "Gogeta SSGSS",
+        "type": "toggle",
+        "img": "images/items/Gogeta_SSGSS.png",
+        "codes": "gogeta_ssgss"
+    },
+	{
+        "name": "Goku (Base)",
+        "type": "toggle",
+        "img": "images/items/Goku_Base.png",
+        "codes": "goku_base"
+    },
+	{
+        "name": "Tien",
+        "type": "toggle",
+        "img": "images/items/Tien.png",
+        "codes": "tien"
+    },
+	{
+        "name": "Yamcha",
+        "type": "toggle",
+        "img": "images/items/Yamcha.png",
+        "codes": "yamcha"
+    },
+	{
+        "name": "Krillin",
+        "type": "toggle",
+        "img": "images/items/Krillin.png",
+        "codes": "krillin"
+    },
+	{
+        "name": "Goku (SSJ)",
+        "type": "toggle",
+        "img": "images/items/Goku_SSJ.png",
+        "codes": "goku_super_saiyan"
+    },
+	{
+        "name": "Android 21 (Lab Coat)",
+        "type": "toggle",
+        "img": "images/items/Android_21_Labcoat.png",
+        "codes": "android_21_lab_coat"
+    },
+	{
+        "name": "Frieza",
+        "type": "toggle",
+        "img": "images/items/Frieza.png",
+        "codes": "frieza"
+    },
+	{
+        "name": "Kid Buu",
+        "type": "toggle",
+        "img": "images/items/Kid_Buu.png",
+        "codes": "kid_buu"
+    },
+	{
+        "name": "Captain Ginyu",
+        "type": "toggle",
+        "img": "images/items/Captain_Ginyu.png",
+        "codes": "captain_ginyu"
+    },
+	{
+        "name": "Nappa",
+        "type": "toggle",
+        "img": "images/items/Nappa.png",
+        "codes": "nappa"
+    },
+	{
+        "name": "Vegeta (Base)",
+        "type": "toggle",
+        "img": "images/items/Vegeta_Base.png",
+        "codes": "vegeta_base"
+    },
+	{
+        "name": "Broly (DBS)",
+        "type": "toggle",
+        "img": "images/items/Broly_Super.png",
+        "codes": "broly_dbs"
+    },
+	{
+        "name": "Super Baby 2",
+        "type": "toggle",
+        "img": "images/items/Super_Baby_2.png",
+        "codes": "super_baby_2"
+    },
+	{
+        "name": "Goku (GT)",
+        "type": "toggle",
+        "img": "images/items/Goku_GT.png",
+        "codes": "goku_gt"
+    },
+	{
+        "name": "Android 17",
+        "type": "toggle",
+        "img": "images/items/Android_17.png",
+        "codes": "android_17"
+    },
+	{
+        "name": "Bardock",
+        "type": "toggle",
+        "img": "images/items/Bardock.png",
+        "codes": "bardock"
+    },
+	{
+        "name": "Goku (SSGSS)",
+        "type": "toggle",
+        "img": "images/items/Goku_SSGSS.png",
+        "codes": "goku_ssgss"
+    },
+	{
+        "name": "Gohan (Adult)",
+        "type": "toggle",
+        "img": "images/items/Gohan_Adult.png",
+        "codes": "gohan_adult"
+    },
+	{
+        "name": "Trunks",
+        "type": "toggle",
+        "img": "images/items/Trunks.png",
+        "codes": "trunks"
+    },
+	{
+        "name": "Vegeta (SSJ)",
+        "type": "toggle",
+        "img": "images/items/Vegeta_SSJ.png",
+        "codes": "vegeta_super_saiyan"
+    },
+	{
+        "name": "Cell",
+        "type": "toggle",
+        "img": "images/items/Cell.png",
+        "codes": "cell"
+    },
+	{
+        "name": "Android 18",
+        "type": "toggle",
+        "img": "images/items/Android_18.png",
+        "codes": "android_18"
+    },
+	{
+        "name": "Android 16",
+        "type": "toggle",
+        "img": "images/items/Android_16.png",
+        "codes": "android_16"
+    },
+	{
+        "name": "Android 21",
+        "type": "toggle",
+        "img": "images/items/Android_21.png",
+        "codes": "android_21"
+    },
+	{
+        "name": "Broly",
+        "type": "toggle",
+        "img": "images/items/Broly_OG.png",
+        "codes": "broly_og"
+    },
+	{
+        "name": "Cooler",
+        "type": "toggle",
+        "img": "images/items/Cooler.png",
+        "codes": "cooler"
+    },
+	{
+        "name": "Janemba",
+        "type": "toggle",
+        "img": "images/items/Janemba.png",
+        "codes": "janemba"
+    },
+	{
+        "name": "Goku (Ultra Instinct)",
+        "type": "toggle",
+        "img": "images/items/Goku_UI.png",
+        "codes": "goku_ultra_instinct"
+    },
+	{
+        "name": "Videl",
+        "type": "toggle",
+        "img": "images/items/Videl.png",
+        "codes": "videl"
+    },
+	{
+        "name": "Vegito (SSGSS)",
+        "type": "toggle",
+        "img": "images/items/Vegito_SSGSS.png",
+        "codes": "vegito_ssgss"
+    },
+	{
+        "name": "Vegeta (SSGSS)",
+        "type": "toggle",
+        "img": "images/items/Vegeta_SSGSS.png",
+        "codes": "vegeta_ssgss"
+    },
+	{
+        "name": "Gotenks",
+        "type": "toggle",
+        "img": "images/items/Gotenks.png",
+        "codes": "gotenks"
+    },
+	{
+        "name": "Piccolo",
+        "type": "toggle",
+        "img": "images/items/Piccolo.png",
+        "codes": "piccolo"
+    },
+	{
+        "name": "Gohan (Teen)",
+        "type": "toggle",
+        "img": "images/items/Gohan_Teen.png",
+        "codes": "gohan_teen"
+    },
+	{
+        "name": "Gogeta (SS4)",
+        "type": "toggle",
+        "img": "images/items/Gogeta_SS4.png",
+        "codes": "gogeta_ss4"
+    },
+	{
+        "name": "Majin Buu",
+        "type": "toggle",
+        "img": "images/items/Majin_Buu.png",
+        "codes": "majin_buu"
+    },
+	{
+        "name": "Beerus",
+        "type": "toggle",
+        "img": "images/items/Beerus.png",
+        "codes": "beerus"
+    },
+	{
+        "name": "Hit",
+        "type": "toggle",
+        "img": "images/items/Hit.png",
+        "codes": "hit"
+    },
+	{
+        "name": "Goku Black",
+        "type": "toggle",
+        "img": "images/items/Goku_Black.png",
+        "codes": "goku_black"
+    },
+	{
+        "name": "Zamasu (Fused)",
+        "type": "toggle",
+        "img": "images/items/Zamasu.png",
+        "codes": "zamasu_fused"
+    },
+	{
+        "name": "Jiren",
+        "type": "toggle",
+        "img": "images/items/Jiren.png",
+        "codes": "jiren"
+    },
+	{
+        "name": "Kefla",
+        "type": "toggle",
+        "img": "images/items/Kefla.png",
+        "codes": "kefla"
+    },
+	
+	// arcade items
+	{
+        "name": "Snake Way",
+        "type": "toggle",
+        "img": "images/items/SnakeWay.png",
+        "codes": "snake_way"
+    },
+	{
+        "name": "Snake Way (Hard)",
+        "type": "toggle",
+        "img": "images/items/SnakeWay_Hard.png",
+        "codes": "snake_way_hard"
+    },
+	{
+        "name": "Snake Way (Random)",
+        "type": "toggle",
+        "img": "images/items/SnakeWay_Random.png",
+        "codes": "snake_way_random"
+    },
+	{
+        "name": "Extreme Gravity Spaceship",
+        "type": "toggle",
+        "img": "images/items/Spaceship.png",
+        "codes": "extreme_gravity_spaceship"
+    },
+	{
+        "name": "Extreme Gravity Spaceship (Hard)",
+        "type": "toggle",
+        "img": "images/items/Spaceship_Hard.png",
+        "codes": "extreme_gravity_spaceship_hard"
+    },
+	{
+        "name": "Extreme Gravity Spaceship (Random)",
+        "type": "toggle",
+        "img": "images/items/Spaceship_Random.png",
+        "codes": "extreme_gravity_spaceship_random"
+    },
+	{
+        "name": "Hyperbolic Time Chamber",
+        "type": "toggle",
+        "img": "images/items/TimeChamber.png",
+        "codes": "hyperbolic_time_chamber"
+    },
+	{
+        "name": "Hyperbolic Time Chamber (Hard)",
+        "type": "toggle",
+        "img": "images/items/TimeChamber_Hard.png",
+        "codes": "hyperbolic_time_chamber_hard"
+    },
+	{
+        "name": "Hyperbolic Time Chamber (Random)",
+        "type": "toggle",
+        "img": "images/items/TimeChamber_Random.png",
+        "codes": "hyperbolic_time_chamber_random"
+    },
+	
+	// dlc & main dtory item flags
+	{
+        "name": "No DLC",
+        "type": "progressive",
+        "codes": "no_dlc",
+		"img": "images/checks/nodlc.png",
+		"disabled_img": "images/checks/dlc.png",
+		"disabled_img_mods": "overlay|images/checks/dlc.png"
+    },
+	{
+        "name": "No Main Story",
+        "type": "toggle",
+        "codes": "no_story",
+		"img": "images/checks/nostory.png",
+		"disabled_img": "images/checks/story.png",
+		"disabled_img_mods": "overlay|images/checks/story.png"
+    }
+]

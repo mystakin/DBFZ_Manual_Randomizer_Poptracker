@@ -1,0 +1,78 @@
+{
+	// define organization of items for use in multiple tracker locations
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "-1,-7",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "master_roshi",
+                        "gogeta_ssgss",
+                        "goku_base",
+                        "tien",
+						"yamcha",
+                        "krillin",
+                        "goku_super_saiyan",
+                        "android_21_lab_coat",
+						"frieza",
+                        "kid_buu",
+                        "captain_ginyu",
+                        "nappa",
+						"vegeta_base",
+                        "broly_dbs",
+                        "super_baby_2"
+                    ],
+                    [
+                        "goku_gt",
+                        "android_17",
+                        "bardock",
+                        "goku_ssgss",
+						"gohan_adult",
+                        "trunks",
+                        "vegeta_super_saiyan",
+                        "cell",
+						"android_18",
+                        "android_16",
+                        "android_21",
+                        "broly_og",
+						"cooler",
+                        "janemba"
+                    ],
+                    [
+                        "goku_ultra_instinct",
+                        "videl",
+                        "vegito_ssgss",
+                        "vegeta_ssgss",
+						"gotenks",
+                        "piccolo",
+                        "gohan_teen",
+                        "gogeta_ss4",
+						"majin_buu",
+                        "beerus",
+                        "hit",
+                        "goku_black",
+						"zamasu_fused",
+                        "jiren",
+                        "kefla"
+                    ],
+                    [
+                        "snake_way",
+                        "extreme_gravity_spaceship",
+                        "hyperbolic_time_chamber",
+                        "snake_way_hard",
+                        "extreme_gravity_spaceship_hard",
+                        "hyperbolic_time_chamber_hard",
+						"snake_way_random",
+                        "extreme_gravity_spaceship_random",
+                        "hyperbolic_time_chamber_random"
+                    ]
+                ]
+            }
+        ]
+    }
+}

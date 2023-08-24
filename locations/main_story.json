@@ -1,0 +1,303 @@
+[
+	{
+		"name": "Super Warrior Arc",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"visibility_rules": ["$yamlCheckStory"],
+		"sections": [
+			{
+				"name": "Map 1",
+				"access_rules": [ "goku_super_saiyan" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 2",
+				"access_rules": [ "goku_super_saiyan" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 3",
+				"access_rules": [ "goku_super_saiyan" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 4",
+				"access_rules": [ "goku_super_saiyan, krillin" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 5",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 6",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 7",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 8",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 9",
+				"access_rules": [ "cell" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 10",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 11",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 12",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 13",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 14",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 15",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks" ],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Main Story",
+				"x": 130,
+				"y": 45
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Enemy Warrior Arc",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"visibility_rules": ["$yamlCheckStory"],
+		"sections": [
+			{
+				"name": "Map 1",
+				"access_rules": [ "frieza" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 2",
+				"access_rules": [ "frieza, nappa" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 3",
+				"access_rules": [ "frieza, nappa, captain_ginyu" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 4",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 5",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 6",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 7",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 8",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 9",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 10",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo, majin_buu" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 11",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo, vegeta_super_saiyan" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 12",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo, vegeta_super_saiyan, gohan_adult, gotenks" ],
+				"item_count": 1
+			},
+			{
+				"name": "Map 13",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo, vegeta_super_saiyan, gohan_adult, gotenks" ],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Main Story",
+				"x": 820,
+				"y": 45
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Android 21 Arc",
+		"chest_unopened_img": "images/checks/dragonball_disabled.png",
+		"chest_opened_img": "images/checks/dragonball.png",
+		"sections": [
+			{
+				"name": "Map 1",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 2",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 3",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 4",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 5",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 6",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 7",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 8",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 9",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 10",
+				"access_rules": [ "android_18, android_16" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 11",
+				"access_rules": [ "android_18, android_16, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 12",
+				"access_rules": [ "android_18, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 13",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks, android_18, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 14",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks, android_18, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 15",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks, android_18, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 16",
+				"access_rules": [ "goku_super_saiyan, krillin, yamcha, tien, majin_buu, piccolo, gohan_adult, vegeta_super_saiyan, gotenks, android_18, android_21" ],
+				"visibility_rules": ["$yamlCheckStory"],
+				"item_count": 1
+			},
+			{
+				"name": "Map 17",
+				"access_rules": [ "frieza, nappa, captain_ginyu, cell, goku_super_saiyan, krillin, yamcha, tien, piccolo, majin_buu, vegeta_super_saiyan, gohan_adult, gotenks, android_16, android_18, android_21" ],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "Main Story",
+				"x": 1535,
+				"y": 45
+			}
+		]
+	}
+]

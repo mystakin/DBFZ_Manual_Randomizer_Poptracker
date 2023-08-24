@@ -1,0 +1,21 @@
+﻿[
+	// design preferences for map overlays
+    {
+        "name": "Main Story",
+        "location_size": 50,
+        "location_border_thickness": 2,
+        "img": "images/maps/main_story.png"
+    },
+    {
+        "name": "Online Battles",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/online_battles.png"
+    },
+    {
+        "name": "Arcade Battles",
+        "location_size": 25,
+        "location_border_thickness": 2,
+        "img": "images/maps/arcade_battles.png"
+    }
+]
